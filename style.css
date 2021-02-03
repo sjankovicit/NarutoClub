@@ -1,0 +1,259 @@
+html,body{
+	margin:0px;
+}
+body{
+	overflow-y:scroll;
+	background-color:#ddd;
+}
+#container{
+	width:1000px;
+	margin:0 auto;
+	height:100%;
+}
+
+header{
+	width:100%;
+	height:300px;
+	background-image:url(images/1.jpg);
+}
+.naruto-logo{
+	width:250px;
+	margin-top:70px;
+	margin-left:330px;
+	position:absolute;
+}
+.naruto-logo img{
+	width:100%;
+}
+#Logoin{
+	float:right;
+}
+#logo{
+	background:url(images/konoha.png) no-repeat;
+	width:70px;
+	height:70px;
+	float:left;
+	background-size:cover;
+}
+.menu{
+	width:100%;
+	margin-top:-50px;
+}
+.menu ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.menu ul li {
+	display: inline-block;
+	margin-left: 5px;
+}
+.menu ul li a{
+	text-decoration:none;
+	color:#fff;
+	padding:10px 20px;
+	box-sizing:border-box;
+	float:left;
+	width:190px;
+	text-align:center;
+	border: 2px solid #000;
+	box-shadow:2px 2px 0px 2px rgba(59, 58, 113, 0.45);
+	background-color:#3182b3;
+	border-radius:10px;
+}
+.menu ul li a:hover{
+	font-weight:bold;
+}
+.menu ul li a.active{
+	background-color:#ff8000;
+	font-weight:bold;
+	color:#000;
+}
+.margin{
+	margin-right:33px;
+}
+
+.content{
+	width:700px;
+	float:right;
+	padding:20px;
+	box-sizing:border-box;
+	background-color:#66BADA;
+	min-height: 928px;
+}
+.sidebar{
+	width:300px;
+	min-height: 928px;
+	float:left;
+	background-image:url(images/9.jpg);
+	background-position: -120px;
+}
+.sidebar a {
+	height: 100%;
+	width: 100%;
+}
+.sidebar img{
+	width:100%;
+	
+}
+footer{
+	background: #3a3a3a;
+	width: 100%;
+	float:left;
+	color: #fff;
+}
+footer p{
+	float:left;
+	padding:0px 10px;
+	box-sizing:border-box;
+	margin-top: -20px;
+}
+.footer-widget{
+	width: 25%;
+	float: left;
+	text-align: center;
+}
+footer ul{
+	list-style: none;
+	padding: 0;
+}
+footer ul li{
+	margin-bottom: 10px;
+}
+footer ul li a {
+	text-decoration: none;
+	color: #d5d5d5;
+}
+footer ul li a:hover {
+	font-weight: bold;
+}
+
+.social{
+	margin-top: 20px;
+}
+
+.social a {
+    opacity: 0.5;
+}
+
+.social a img{
+	border-radius: 10px;
+}
+
+.social a:hover {
+    opacity: 1;
+}
+
+.clearfix{
+	overflow:auto;
+	zoom:1;
+}
+.white{
+	background:#fff;
+}
+#log tr td button{
+	float:right;
+}
+.content #contact{
+	font-weight:bold;
+	margin:0 auto;
+	width:300px;
+}
+#contact-form td input, #contact-form td textarea{
+	width: 300px;
+    resize: none;
+}
+article{
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+article .image{
+	height: 150px;
+	width: 270px;
+	float:left;
+	text-align: center;
+	padding-top: 20px;
+}
+
+article .image img{
+	height: 100%;
+	border-radius: 10px;
+}
+
+article .description{
+	float: left;
+	width: 370px;
+	margin-left: 20px;
+	color:white;
+}
+
+article .description a{
+	text-decoration: none;
+	color: #000;
+}
+h3{
+	color:white;
+}
+
+
+.menu td a{
+	text-decoration:none;
+	color:#fff;
+	padding:10px 20px;
+	box-sizing:border-box;
+	float:left;
+	width:190px;
+	text-align:center;
+	border: 2px solid #000;
+	box-shadow:2px 2px 0px 2px rgba(59, 58, 113, 0.45);
+	background-color:#3182b3;
+	border-radius:10px;
+}
+.menu td a:hover{
+	font-weight:bold;
+}
+
+.menu td a.active{
+	background-color:#ff8000;
+	font-weight:bold;
+	color:#000;
+}
+
+.menu tr td .menu-item{
+	display: block;
+	margin: 0 auto;
+}
+
+.menu-item{
+	width: 190px;
+}
+
+.content .gallery-item img{
+	margin: 0 17px 17px 0;
+	border-radius: 10px;
+}
+#me-desc {
+	float: left;
+	border-radius: 10px;
+}
+#me-pic {
+	float:right;
+	background:url(images/me.jpg);
+	background-size: cover;
+	width: 300px;
+	height: 300px;
+}
+#container-me {
+	width: 360px;
+	float:left;
+}
+#form-ancet{
+	width:200px;
+	margin: 0 auto;
+}
+.ancet-form table {
+	float:left;
+	border: 1px solid;
+	border-radius: 5px;
+}

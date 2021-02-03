@@ -1,0 +1,22 @@
+<rss version="2.0">
+<channel>
+<title>Home - Naruto fanpage</title>
+<link>http://naruto-fanpage.site88.net/index.html</link>
+<description>Here you can follow the latest Naruto episodes and manga chapters</description>
+<item>
+<title>Naruto episods</title>
+<link>http://naruto-fanpage.site88.net/episodes.html</link>
+<description>Here are the latest episods of Naruto</description>
+</item>
+<item>
+<title>Naruto gallery </title>
+<link>http://naruto-fanpage.site88.net/gallery.html</link>
+<description>Here can you look the photos of Naruto and his team</description>
+</item>
+<item>
+<title>Naruto - Manga</title>
+<link>http://naruto-fanpage.site88.net/manga.html</link>
+<description>Here are the latest manga chapters of Naruto</description>
+</item>
+</channel>
+</rss>

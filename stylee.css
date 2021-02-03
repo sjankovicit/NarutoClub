@@ -1,0 +1,22 @@
+urlset{
+	display:block;
+	border:1px solid #000;
+	background:#1F70A0;
+}
+url{
+	display: block;
+    background-color: #FFB102;
+    border: 2px solid #000;
+    padding: 15px;
+    margin: 28px 85px;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    text-align: center;
+	
+}
+loc,lastmod,changefreq,priority{
+	display:block;
+	
+}
